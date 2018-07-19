@@ -1,6 +1,8 @@
 # QR-Hotspots
 A multi platform application for ( Hotspots / Bluetooth ) security using QR codes as credentials for connection.
 
+( To be written in javascript and converted by www.phonegap.com )
+
 The project aims to create a safe hotspot / bluetooth connection, using single use randomly generated QR codes that are created by the host and then scanned by the "Client", allowing them to connect for one session and locking permission for one client per QR code.
 
 Use Scenario demonstrating how this will work.
